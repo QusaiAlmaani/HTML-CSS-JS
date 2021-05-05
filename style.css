@@ -1,0 +1,19 @@
+body {
+  background-color:aquamarine;
+}
+header{
+  background: red;
+}
+nav ul li{
+  text-decoration:none;
+  color:blue;
+  display: inline;
+}
+a {
+  text-decoration:none;
+  
+}
+img{
+  height:600 ;
+  width:100%;
+}
